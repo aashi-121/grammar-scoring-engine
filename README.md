@@ -1,9 +1,9 @@
-🎙️ Grammar Scoring Engine from Voice Samples
+#🎙️ Grammar Scoring Engine from Voice Samples
 
-📌 Project Overview
-This project implements an end-to-end Grammar Scoring Engine that evaluates spoken English responses by analyzing audio input, converting it into text, extracting linguistic and grammatical features, and training a machine learning model to predict grammar quality scores.
+##📌 Project Overview
+- This project implements an end-to-end Grammar Scoring Engine that evaluates spoken English responses by analyzing audio input, converting it into text, extracting linguistic and grammatical features, and training a machine learning model to predict grammar quality scores.
 
-The solution demonstrates the complete pipeline from raw voice data → transcription → NLP-based feature extraction → ML model training, designed to be scalable and interpretable.
+- The solution demonstrates the complete pipeline from raw voice data → transcription → NLP-based feature extraction → ML model training, designed to be scalable and interpretable.
 
 🧠 Problem Statement
 Given short voice recordings of spoken English, the goal is to automatically assess the grammar quality of the speech and assign a numerical score.
