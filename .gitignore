@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dataset & audio (NEVER upload)
+dataset/
+
+# Outputs
+submission.csv
+
+# Kaggle credentials
+.kaggle/
+kaggle.json
+
+# VS Code
+.vscode/

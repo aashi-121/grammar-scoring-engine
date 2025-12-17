@@ -1,0 +1,9 @@
+pandas
+numpy
+librosa
+soundfile
+openai-whisper
+torch
+torchaudio
+spacy
+scikit-learn
